@@ -1,2 +1,2 @@
 # Subtitles
-collection of .srt by me
+Collection of .srt made by me
